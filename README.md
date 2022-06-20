@@ -1,5 +1,3 @@
-小前端一枚  
-
     mini-i18n        小程序多语言
     woocCli.         mini-i18n 的工具库.
     weakUp           唤醒 App.
